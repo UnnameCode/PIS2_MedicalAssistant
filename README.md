@@ -6,7 +6,7 @@ This project is part of the Software Engineering course at the Autonomous Univer
 ## Team Members
 - Diego Armando Santacruz Ñañez
 - Andrés Felipe Gómez Ordoñez
-- ...
+- Juan Camilo Figueroa Sierra
 - ...
 
 ## Professor
